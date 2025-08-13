@@ -3,11 +3,5 @@ pandas
 plotly
 glob2
 python-dotenv
-yfinance
-textblob
-talib
-vadersentiment
-beautifulsoup4
-backtrader
-requests
-schedule
+
+
